@@ -12,3 +12,4 @@ $ expo start
 
 ##Aparência
 
+![imagem do app](https://github.com/jessica-leme/programador-BR-reactNative/blob/main/imc-calculator-img.png)
