@@ -1,3 +1,14 @@
 # Calculadora de IMC
 
-[Aula no YouTube](https://youtu.be/RdcguVta_bs)
+## Iniciando o App
+
+```
+$ expo start
+```
+
+## Informações
+
+[📕 Aula no YouTube](https://youtu.be/RdcguVta_bs)
+
+##Aparência
+
